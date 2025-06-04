@@ -1,9 +1,9 @@
 
 > Open this page at [https://ultrabrodie.github.io/microtank/](https://ultrabrodie.github.io/microtank/)
 
-## Edit this project
+## Import this project
 
-To edit this repository in MakeCode.
+To import this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
