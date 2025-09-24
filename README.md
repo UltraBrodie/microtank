@@ -1,5 +1,5 @@
 ## About Micro Tank
-me and one of my friends made a tank with the microbit
+Me and one of my friends made a tank with the microbit,
 it was fun
 
 
