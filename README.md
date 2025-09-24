@@ -1,6 +1,6 @@
 ## About Micro Tank
 Me and one of my friends made a tank with the microbit,
-it was fun
+it was fun.
 
 
 ## Import this project
