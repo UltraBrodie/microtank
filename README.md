@@ -1,5 +1,7 @@
+## About Micro Tank
+me and one of my friends made a tank with the microbit
+it was fun
 
-> Open this page at [https://ultrabrodie.github.io/microtank/](https://ultrabrodie.github.io/microtank/)
 
 ## Import this project
 
